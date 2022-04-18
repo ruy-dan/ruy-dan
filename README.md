@@ -1,6 +1,7 @@
+HTML5, JavaScript, React, React Native, VueJS, NodeJS, NextJS, Typescript, Tailwind, Bootstrap, Rust, Python, Java, Solidity, Hardhat, Avalanche, Kadena, C#, Firebase, Mongo
+<!--
 ### Hi there 👋
 
-<!--
 **ruy-dan/ruy-dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
