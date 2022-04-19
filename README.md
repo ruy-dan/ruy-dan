@@ -1,4 +1,4 @@
-HTML5, JavaScript, React, React Native, VueJS, NodeJS, NextJS, Typescript, Tailwind, Bootstrap, Rust, Python, Java, Solidity, Hardhat, Ethereum, Solana, Avalanche, Kadena, C#, Firebase, Mongo
+HTML5, JavaScript, React, React Native, VueJS, NodeJS, NextJS, Typescript, Tailwind, Bootstrap, Rust, Python, Java, Solidity, Hardhat, Ethers.js, Ethereum, Solana, Avalanche, Kadena, C#, Firebase, Mongo
 <!--
 ### Hi there 👋
 
